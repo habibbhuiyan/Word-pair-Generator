@@ -1,1 +1,1 @@
-# Word-pair-Generator
+# wordpair_generator
